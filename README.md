@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NSAscend
+- 👀 I’m interested in music and I play guitar (acoustic, bass) and can also sustain a rhythmn on drums
+- 🌱 I’m currently learning flutter
